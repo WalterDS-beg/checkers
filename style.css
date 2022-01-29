@@ -1,0 +1,24 @@
+body {
+  margin-left: 20px;
+  background-color: plum;
+}
+.checkers {
+  border: solid 1px black;
+  width: 588px;
+  height: 581px;
+  position: relative;
+  left: 28%;
+  margin-top: 30px;
+}
+.dark,
+.light {
+  width: 70px;
+  height: 70px;
+  border: none;
+}
+.dark {
+  background-color: purple;
+}
+.light {
+  background-color: rgb(241, 183, 227);
+}
